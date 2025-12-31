@@ -33,6 +33,11 @@ The project focuses on cleaning, analyzing, and visualizing clinical trial data 
 
 ---
 
+---
+## Jupyter file main.ipynb
+- USe this file as this is the base of this project EDA Analysiss
+---
+
 ## 🛠️ Technologies Used
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
@@ -104,7 +109,7 @@ Data_Driven_Analysis_of_Covid19_Clinical_Trial/ <br>
 - Academic Institutions
 - Policy Makers
 
-###🔮 Future Enhancements
+### 🔮 Future Enhancements
 
 - Live data updates from ClinicalTrials.gov
 - Advanced statistical analysis
